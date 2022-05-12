@@ -1,3 +1,7 @@
 \lambda
 
 $\lambda$
+
+$$
+\lambda
+$$
