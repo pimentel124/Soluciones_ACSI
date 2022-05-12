@@ -1,5 +1,3 @@
 \lambda
 
-$$
-\lambda
-$$
+$\lambda$
